@@ -1,16 +1,17 @@
-### Hi there 👋
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-<!--
-**Adenildo-Aquino/Adenildo-Aquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Adenildo Aquino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá pessoal 👋
+Estou começando agora no mundo do desenvolvimento Web.
+
+
+ :rocket:  &nbsp; Estudando Dev web no IFBA e participante do Next Level Week #2:
+ <br/> :star2: &nbsp; Buscando colaborar com projetos
+ <br/> :grey_question: &nbsp; Posso te ajudar com CSS e html
+ <br/> :scroll: &nbsp; Formado  em Engenharia Mecânica e Téc. Eletrônica
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Cod, Pubg e seriados no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo:<br>
+ Linkedin >>> https://www.linkedin.com/in/adenildosouzadeaquino/<br>
+ Email >>> nil.aquino@gmail.com
