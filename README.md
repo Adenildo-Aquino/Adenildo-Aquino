@@ -8,7 +8,7 @@
 Estou começando agora no mundo do desenvolvimento Web.
 
 
- :rocket:  &nbsp; Estudando Dev web no IFBA e participante do Next Level Week #2:
+ :rocket:  &nbsp; Estudando Dev web no IFBA
  <br/> :star2: &nbsp; Buscando colaborar com projetos
  <br/> :grey_question: &nbsp; Posso te ajudar com CSS e html
  <br/> :scroll: &nbsp; Formado  em Engenharia Mecânica e Téc. Eletrônica
