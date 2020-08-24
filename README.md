@@ -3,7 +3,7 @@
 
 # Adenildo Aquino
 
-## Em Construção...
+##  :octocat: Em Construção...
 
 Estou começando agora no mundo do desenvolvimento Web.
 
